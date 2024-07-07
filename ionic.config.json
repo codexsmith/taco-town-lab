@@ -1,0 +1,8 @@
+{
+  "name": "taco_town_lab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "4e3fe75a"
+}
